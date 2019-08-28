@@ -3,5 +3,5 @@ the predefined requirements of an assignment.
 
 | - - - - - |
 
-Program propmts the user for two integers and an opperation. Then 
-executes the opperation using the two integers and returns the answer.
+Program propmts the user for two integers and an operation. Then 
+executes the operation using the two integers and returns the answer.
